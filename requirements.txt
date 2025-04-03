@@ -1,6 +1,11 @@
-pandas 
-matplotlib 
-requests 
-pytz 
-streamlit
-python-docx
+llama-index
+llama-index-core
+llama-index-readers-file
+llama-index-embeddings-ollama
+llama-index-llms-ollama
+llama-index-llms-mistralai
+chromadb
+langchain-community
+pandas
+os
+json
