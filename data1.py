@@ -85,7 +85,7 @@ docs = reader.load_data()
 # 5.1 This creates persistent collection. A folder by name of chromadb
 #     is created and below that a chroma.sqlite3 database exists:
 
-chroma_client = chromadb.PersistentClient(path="chromadb")
+chroma_client = chromadb.PersistentClient(path="https://raw.githubusercontent.com/045019/SkillSyncAI/refs/heads/main/chromadb")
 
 
 # 5.2 Check if collection exists. If so delete it.
