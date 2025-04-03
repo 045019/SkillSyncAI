@@ -1,0 +1,6 @@
+pandas 
+matplotlib 
+requests 
+pytz 
+streamlit
+python-docx
