@@ -55,8 +55,8 @@ Settings.llm = llm
 # 3.0 Reading data in pandas
 #     It has nothing to do with subsequent analysis/usage
 
-#file_path = ('/home/ashok/Documents/csvrag/data/data.csv') # insert the path of the csv file
-file_path = ('trim data.csv') # insert the path of the csv file
+
+file_path = ('https://raw.githubusercontent.com/045019/SkillSyncAI/refs/heads/main/trim%20data.csv') # insert the path of the csv file
 df = pd.read_csv(file_path)
 
 # 3.1 Preview the csv file
