@@ -7,5 +7,4 @@ llama-index-llms-mistralai
 chromadb
 langchain-community
 pandas
-os
 json
