@@ -29,7 +29,6 @@ from llama_index.core.tools import FunctionTool
 from llama_index.core.agent import FunctionCallingAgentWorker, AgentRunner
 
 # 1.6 Misc
-import os
 import pandas as pd
 
 
