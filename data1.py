@@ -46,7 +46,7 @@ Settings.embed_model = embed_model
 # 2.1 Settings can set the global configuration. Local configurations (transformations, LLMs, embedding models).
 #     These can be passed directly into the interfaces that make use of them.
 from llama_index.llms.mistralai import MistralAI
-llm = MistralAI(api_key="txuXbijTrapzLjfKQdEGSXWqSH6Ovdni")
+llm = MistralAI(api_key="dgL1DeDEekkjUy4nGQACquc0iFPoK6mS")
 Settings.llm = llm
 
 
